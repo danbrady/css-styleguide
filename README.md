@@ -51,6 +51,7 @@ This document captures my current thoughts on styling. It is a living document a
 * Multi folder/file organization
 * Common helpers (Mixins for media queries, spacing, etc)
 * Single location for variables
+* Media queries with component it affects (using Sass nesting)
 
 ## References
 * Harry Roberts - [CSS Guidelines](http://cssguidelin.es)
